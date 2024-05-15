@@ -1,2 +1,5 @@
 # Spam-Email-Detection-using-Python
-Its a email spam detection with spam and not spam classifications using machine learning model.
+Email Spam Detector is a machine learning-based system designed to automatically classify incoming emails as either spam or legitimate. By analyzing the content and features of each email, it helps users avoid unwanted and potentially harmful messages, providing a safer and more efficient email communication experience.
+
+
+Licence CodewithRich 2024
